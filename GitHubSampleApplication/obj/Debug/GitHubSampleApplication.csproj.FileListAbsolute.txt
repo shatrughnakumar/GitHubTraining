@@ -1,0 +1,6 @@
+D:\GitHubTraining\GitHubSampleApplication\GitHubSampleApplication\bin\GitHubSampleApplication.dll.config
+D:\GitHubTraining\GitHubSampleApplication\GitHubSampleApplication\bin\GitHubSampleApplication.dll
+D:\GitHubTraining\GitHubSampleApplication\GitHubSampleApplication\bin\GitHubSampleApplication.pdb
+D:\GitHubTraining\GitHubSampleApplication\GitHubSampleApplication\obj\Debug\GitHubSampleApplication.csprojResolveAssemblyReference.cache
+D:\GitHubTraining\GitHubSampleApplication\GitHubSampleApplication\obj\Debug\GitHubSampleApplication.dll
+D:\GitHubTraining\GitHubSampleApplication\GitHubSampleApplication\obj\Debug\GitHubSampleApplication.pdb
